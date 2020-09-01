@@ -1,6 +1,6 @@
 # Dictionary
 
-**TODO: Add description**
+**TODO: Simple Dictionary module
 
 ## Installation
 
