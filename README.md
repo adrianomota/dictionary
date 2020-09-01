@@ -1,6 +1,6 @@
 # Dictionary
 
-**TODO: Simple Dictionary module
+**TODO: Simple Dictionary module**
 
 ## Installation
 
