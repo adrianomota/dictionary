@@ -1,6 +1,6 @@
 # Dictionary
 
-**TODO: Simple Dictionary module**
+**Simple dictionary module build with Agent Server**
 
 ## Installation
 
