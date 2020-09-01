@@ -1,4 +1,6 @@
 defmodule Dictionary.WordList do
+  use Agent
+
   @me :elliot
   def start_link() do
     Agent.start_link(&word_list/0, name: @me)
